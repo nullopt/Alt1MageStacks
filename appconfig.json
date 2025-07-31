@@ -1,0 +1,16 @@
+{
+    "appName": "MageStacks",
+    "description": "MageStacks is a tool that helps you manage your mage stacks.",
+    "appUrl": "./index.html",
+    "configUrl": "./appconfig.json",
+    "iconUrl": "./icon.png",
+    "defaultWidth": 1,
+    "defaultHeight": 1,
+    "minWidth": 1,
+    "minHeight": 1,
+    "maxWidth": 1,
+    "maxHeight": 1,
+    "requestHandlers": [],
+    "activators": [],
+    "permissions": "pixel, gamestate, overlay"
+}
